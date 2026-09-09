@@ -210,7 +210,3 @@ __marimo__/
 
 .ipynb_checkpoints/
 .virtual_documents/
-
-# Dataset
-
-data/
